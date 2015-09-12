@@ -1,0 +1,178 @@
+Cmp-Mod V01 Created by Cvpcb (2015-05-11 BZR 5650)-product   date = Sat 12 Sep 2015 12:10:15 AM CEST
+
+BeginCmp
+TimeStamp = /55F356F4;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = w_smd_cap:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F3561D;
+Reference = C2;
+ValeurCmp = 47uF;
+IdModule  = w_smd_cap:c_elec_8x6.7;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F34FA7;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = w_smd_cap:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F34FA1;
+Reference = C4;
+ValeurCmp = 1uF;
+IdModule  = w_smd_cap:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F34B02;
+Reference = C5;
+ValeurCmp = 100nF;
+IdModule  = w_smd_cap:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F34AFC;
+Reference = C6;
+ValeurCmp = 1uF;
+IdModule  = w_smd_cap:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F34A5B;
+Reference = C7;
+ValeurCmp = 100nF;
+IdModule  = w_smd_cap:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F34A05;
+Reference = C8;
+ValeurCmp = 1uF;
+IdModule  = w_smd_cap:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F34700;
+Reference = C9;
+ValeurCmp = 1uF;
+IdModule  = w_smd_cap:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F35AA6;
+Reference = J1;
+ValeurCmp = VIN;
+IdModule  = w_pin_strip:pin_strip_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F33F78;
+Reference = J2;
+ValeurCmp = VCCSEL;
+IdModule  = w_pin_strip:pin_strip_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F34541;
+Reference = J3;
+ValeurCmp = VCCASEL;
+IdModule  = w_pin_strip:pin_strip_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F33B9D;
+Reference = J4;
+ValeurCmp = PORT0;
+IdModule  = w_pin_strip:pin_strip_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F33C1C;
+Reference = J5;
+ValeurCmp = PORT1;
+IdModule  = w_pin_strip:pin_strip_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F351D0;
+Reference = J6;
+ValeurCmp = POWER;
+IdModule  = w_pin_strip:pin_strip_5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F33C7E;
+Reference = J7;
+ValeurCmp = PORT2;
+IdModule  = w_pin_strip:pin_strip_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F33CB7;
+Reference = J8;
+ValeurCmp = PORT3;
+IdModule  = w_pin_strip:pin_strip_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F33CF1;
+Reference = J9;
+ValeurCmp = PORT4;
+IdModule  = w_pin_strip:pin_strip_4;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F35E6B;
+Reference = J10;
+ValeurCmp = SWD;
+IdModule  = w_pin_strip:pin_socket_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F37688;
+Reference = LD1;
+ValeurCmp = USR;
+IdModule  = w_smd_leds:Led_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F3780D;
+Reference = LD2;
+ValeurCmp = PWR;
+IdModule  = w_smd_leds:Led_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F37842;
+Reference = R1;
+ValeurCmp = 330;
+IdModule  = w_smd_resistors:r_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F378A1;
+Reference = R2;
+ValeurCmp = 330;
+IdModule  = w_smd_resistors:r_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F33E70;
+Reference = U1;
+ValeurCmp = LM1117-SOT;
+IdModule  = w_smd_trans:sot223;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F33B0A;
+Reference = U2;
+ValeurCmp = PSOC4200-44TQFP;
+IdModule  = w_smd_lqfp:lqfp44;
+EndCmp
+
+EndListe
